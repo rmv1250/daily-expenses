@@ -1,4 +1,7 @@
 
+# Razvan-Marian Vlasceanu
+- rmvlasceanu@gmail.com
+
 # Some next steps and known issues
 Not exactly in this order
 - call api to update default categories based on settings along with new expense creation or while updating new one
