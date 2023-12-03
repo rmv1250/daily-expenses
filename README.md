@@ -1,6 +1,6 @@
 
 # Razvan-Marian Vlasceanu
-- rmvlasceanu@gmail.com
+- rmvlasceanu at gmail.com
 
 # Some next steps and known issues
 Not exactly in this order
