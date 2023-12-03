@@ -1,0 +1,1474 @@
+{
+  "settings": {
+    "autoSaveCategories": true,
+    "defaultCurrency": "RON",
+    "userDefaultCategories": [
+      {
+        "id": 0,
+        "label": "fashion"
+      },
+      {
+        "id": 4,
+        "label": "food"
+      },
+      {
+        "id": 3,
+        "label": "sport"
+      }
+    ]
+  },
+  "expenses": [
+    {
+      "id": 0,
+      "title": "labore incididunt reprehenderit",
+      "amount": 3.41,
+      "currency": "CHF",
+      "category": "fashion",
+      "transactionDate": "11/11/2023",
+      "recipient": "Sportan",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=0",
+      "location": "Staples",
+      "comments": "cillum velit pariatur reprehenderit aute elit proident"
+    },
+    {
+      "id": 1,
+      "title": "minim excepteur mollit",
+      "amount": 91.94,
+      "currency": "CHF",
+      "category": "leisure",
+      "transactionDate": "1/12/2023",
+      "recipient": "Xoggle",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=1",
+      "location": "Roland",
+      "comments": "magna officia nostrud in elit"
+    },
+    {
+      "id": 2,
+      "title": "cupidatat occaecat Lorem",
+      "amount": 92.86,
+      "currency": "CHF",
+      "category": "leisure",
+      "transactionDate": "29/06/2023",
+      "recipient": "Daisu",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=2",
+      "location": "Harrison",
+      "comments": "proident exercitation sit laborum nostrud"
+    },
+    {
+      "id": 3,
+      "title": "cillum irure anim",
+      "amount": 40.83,
+      "currency": "GBP",
+      "category": "transportation",
+      "transactionDate": "26/11/2021",
+      "recipient": "Hopeli",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=3",
+      "location": "Wacissa",
+      "comments": "duis Lorem tempor ad velit ut cillum"
+    },
+    {
+      "id": 4,
+      "title": "proident labore minim",
+      "amount": 57,
+      "currency": "RON",
+      "category": "fashion",
+      "transactionDate": "27/01/2023",
+      "recipient": "Daido",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=4",
+      "location": "Loyalhanna",
+      "comments": "Lorem quis ad aliquip do sint nulla aliquip esse"
+    },
+    {
+      "id": 5,
+      "title": "in occaecat ad",
+      "amount": 96.94,
+      "currency": "EUR",
+      "category": "sport",
+      "transactionDate": "22/02/2021",
+      "recipient": "Sureplex",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=5",
+      "location": "Morgandale",
+      "comments": "nostrud laboris consectetur non quis ipsum id"
+    },
+    {
+      "id": 6,
+      "title": "fugiat sunt sint",
+      "amount": 37.07,
+      "currency": "CHF",
+      "category": "transportation",
+      "transactionDate": "30/11/2022",
+      "recipient": "Retrotex",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=6",
+      "location": "Greensburg",
+      "comments": "ut fugiat esse laboris voluptate ullamco culpa"
+    },
+    {
+      "id": 7,
+      "title": "eu cupidatat velit",
+      "amount": 57.44,
+      "currency": "RON",
+      "category": "food",
+      "transactionDate": "10/01/2022",
+      "recipient": "Gracker",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=7",
+      "location": "Starks",
+      "comments": "eu veniam et esse quis et sit et sit pariatur"
+    },
+    {
+      "id": 8,
+      "title": "Lorem qui duis",
+      "amount": 4.1,
+      "currency": "CHF",
+      "category": "fashion",
+      "transactionDate": "08/10/2023",
+      "recipient": "Zappix",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=8",
+      "location": "Cecilia",
+      "comments": "id sint culpa sit"
+    },
+    {
+      "id": 9,
+      "title": "dolore magna exercitation",
+      "amount": 96.63,
+      "currency": "GBP",
+      "category": "food",
+      "transactionDate": "14/08/2022",
+      "recipient": "Updat",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=9",
+      "location": "Laurelton",
+      "comments": "aliquip est ad officia"
+    },
+    {
+      "id": 10,
+      "title": "incididunt adipisicing eiusmod",
+      "amount": 79.28,
+      "currency": "EUR",
+      "category": "leisure",
+      "transactionDate": "05/05/2023",
+      "recipient": "Dancity",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=10",
+      "location": "Nanafalia",
+      "comments": "fugiat dolore culpa exercitation officia cillum cupidatat tempor elit"
+    },
+    {
+      "id": 11,
+      "title": "ex eiusmod incididunt",
+      "amount": 23.17,
+      "currency": "EUR",
+      "category": "food",
+      "transactionDate": "13/06/2023",
+      "recipient": "Miracula",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=11",
+      "location": "Navarre",
+      "comments": "velit eiusmod consectetur et minim"
+    },
+    {
+      "id": 12,
+      "title": "esse proident voluptate",
+      "amount": 89.69,
+      "currency": "CHF",
+      "category": "sport",
+      "transactionDate": "07/01/2023",
+      "recipient": "Menbrain",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=12",
+      "location": "Strykersville",
+      "comments": "sunt cupidatat quis occaecat ut reprehenderit tempor exercitation dolore labore"
+    },
+    {
+      "id": 13,
+      "title": "duis esse Lorem",
+      "amount": 52.18,
+      "currency": "CHF",
+      "category": "fashion",
+      "transactionDate": "30/11/2022",
+      "recipient": "Lyria",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=13",
+      "location": "Fidelis",
+      "comments": "amet anim tempor"
+    },
+    {
+      "id": 14,
+      "title": "culpa voluptate ut",
+      "amount": 15.79,
+      "currency": "USD",
+      "category": "fashion",
+      "transactionDate": "27/05/2021",
+      "recipient": "Waretel",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=14",
+      "location": "Machias",
+      "comments": "nulla minim Lorem ipsum labore exercitation laboris velit"
+    },
+    {
+      "id": 15,
+      "title": "irure nulla velit",
+      "amount": 77.95,
+      "currency": "USD",
+      "category": "transportation",
+      "transactionDate": "05/04/2023",
+      "recipient": "Ovation",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=15",
+      "location": "Craig",
+      "comments": "ut aute veniam ut"
+    },
+    {
+      "id": 16,
+      "title": "ex nisi cillum",
+      "amount": 23.09,
+      "currency": "USD",
+      "category": "food",
+      "transactionDate": "21/10/2023",
+      "recipient": "Freakin",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=16",
+      "location": "Townsend",
+      "comments": "elit irure velit occaecat duis nulla"
+    },
+    {
+      "id": 17,
+      "title": "fugiat laboris dolore",
+      "amount": 74.28,
+      "currency": "CHF",
+      "category": "leisure",
+      "transactionDate": "07/01/2021",
+      "recipient": "Musanpoly",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=17",
+      "location": "Foxworth",
+      "comments": "occaecat dolore et incididunt irure tempor Lorem ullamco exercitation"
+    },
+    {
+      "id": 18,
+      "title": "laborum proident laboris",
+      "amount": 31.35,
+      "currency": "EUR",
+      "category": "sport",
+      "transactionDate": "05/10/2023",
+      "recipient": "Ersum",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=18",
+      "location": "Madaket",
+      "comments": "incididunt anim nisi labore laboris dolore"
+    },
+    {
+      "id": 19,
+      "title": "eu pariatur qui",
+      "amount": 87.22,
+      "currency": "GBP",
+      "category": "leisure",
+      "transactionDate": "09/11/2023",
+      "recipient": "Mangelica",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=19",
+      "location": "Tolu",
+      "comments": "qui nulla excepteur amet eiusmod mollit cillum est occaecat"
+    },
+    {
+      "id": 20,
+      "title": "laborum duis dolore",
+      "amount": 17.66,
+      "currency": "USD",
+      "category": "leisure",
+      "transactionDate": "12/01/2023",
+      "recipient": "Amril",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=20",
+      "location": "Barclay",
+      "comments": "quis sunt tempor occaecat magna"
+    },
+    {
+      "id": 21,
+      "title": "laboris reprehenderit do",
+      "amount": 32.04,
+      "currency": "CHF",
+      "category": "sport",
+      "transactionDate": "11/04/2022",
+      "recipient": "Supportal",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=21",
+      "location": "Breinigsville",
+      "comments": "ipsum exercitation eiusmod pariatur reprehenderit proident"
+    },
+    {
+      "id": 22,
+      "title": "aute incididunt labore",
+      "amount": 46.69,
+      "currency": "EUR",
+      "category": "food",
+      "transactionDate": "08/02/2023",
+      "recipient": "Virxo",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=22",
+      "location": "Romeville",
+      "comments": "quis dolor est minim ipsum exercitation"
+    },
+    {
+      "id": 23,
+      "title": "officia tempor ad",
+      "amount": 64.59,
+      "currency": "USD",
+      "category": "sport",
+      "transactionDate": "11/01/2023",
+      "recipient": "Acusage",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=23",
+      "location": "Trail",
+      "comments": "nulla aliqua elit est ipsum"
+    },
+    {
+      "id": 24,
+      "title": "in eiusmod velit",
+      "amount": 91.2,
+      "currency": "RON",
+      "category": "sport",
+      "transactionDate": "20/08/2022",
+      "recipient": "Gorganic",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=24",
+      "location": "Vale",
+      "comments": "consequat eiusmod culpa ullamco adipisicing voluptate laboris eiusmod dolor est"
+    },
+    {
+      "id": 25,
+      "title": "anim excepteur tempor",
+      "amount": 66.35,
+      "currency": "CHF",
+      "category": "transportation",
+      "transactionDate": "02/08/2023",
+      "recipient": "Apextri",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=25",
+      "location": "Dawn",
+      "comments": "amet reprehenderit anim fugiat enim"
+    },
+    {
+      "id": 26,
+      "title": "irure quis voluptate",
+      "amount": 15.47,
+      "currency": "CHF",
+      "category": "fashion",
+      "transactionDate": "27/11/2023",
+      "recipient": "Prosely",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=26",
+      "location": "Roosevelt",
+      "comments": "pariatur est deserunt"
+    },
+    {
+      "id": 27,
+      "title": "Lorem minim anim",
+      "amount": 58.95,
+      "currency": "USD",
+      "category": "fashion",
+      "transactionDate": "19/06/2022",
+      "recipient": "Zoid",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=27",
+      "location": "Marienthal",
+      "comments": "sit aliquip Lorem ullamco magna in"
+    },
+    {
+      "id": 28,
+      "title": "ea consectetur occaecat",
+      "amount": 50.39,
+      "currency": "EUR",
+      "category": "food",
+      "transactionDate": "01/01/2021",
+      "recipient": "Pyramis",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=28",
+      "location": "Harmon",
+      "comments": "laborum elit velit laborum enim"
+    },
+    {
+      "id": 29,
+      "title": "nostrud nisi laborum",
+      "amount": 38.65,
+      "currency": "EUR",
+      "category": "sport",
+      "transactionDate": "19/11/2023",
+      "recipient": "Yurture",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=29",
+      "location": "Crown",
+      "comments": "commodo irure irure adipisicing aliquip nisi voluptate voluptate"
+    },
+    {
+      "id": 30,
+      "title": "exercitation officia quis",
+      "amount": 95.16,
+      "currency": "CHF",
+      "category": "sport",
+      "transactionDate": "01/12/2023",
+      "recipient": "Adornica",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=0",
+      "location": "Templeton",
+      "comments": "occaecat excepteur magna aute sit incididunt dolore ea et in"
+    },
+    {
+      "id": 31,
+      "title": "ex veniam qui",
+      "amount": 15.48,
+      "currency": "GBP",
+      "category": "fashion",
+      "transactionDate": "01/12/2023",
+      "recipient": "Envire",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=1",
+      "location": "Staples",
+      "comments": "cupidatat laborum mollit commodo"
+    },
+    {
+      "id": 32,
+      "title": "cillum occaecat pariatur",
+      "amount": 99.69,
+      "currency": "CHF",
+      "category": "food",
+      "transactionDate": "01/12/2023",
+      "recipient": "Farmage",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=2",
+      "location": "Williston",
+      "comments": "aute irure incididunt amet"
+    },
+    {
+      "id": 33,
+      "title": "officia deserunt consectetur",
+      "amount": 84.39,
+      "currency": "CHF",
+      "category": "fashion",
+      "transactionDate": "01/12/2023",
+      "recipient": "Corecom",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=3",
+      "location": "Carrsville",
+      "comments": "nostrud velit sunt proident magna elit ea"
+    },
+    {
+      "id": 34,
+      "title": "dolor proident ut",
+      "amount": 41.12,
+      "currency": "CHF",
+      "category": "transportation",
+      "transactionDate": "01/12/2023",
+      "recipient": "Zilladyne",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=4",
+      "location": "Summertown",
+      "comments": "aliquip id ea"
+    },
+    {
+      "id": 35,
+      "title": "velit officia veniam",
+      "amount": 21.58,
+      "currency": "RON",
+      "category": "leisure",
+      "transactionDate": "01/12/2023",
+      "recipient": "Overplex",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=5",
+      "location": "Caroline",
+      "comments": "aute officia laborum anim eu"
+    },
+    {
+      "id": 36,
+      "title": "laborum sunt deserunt",
+      "amount": 95.63,
+      "currency": "CHF",
+      "category": "leisure",
+      "transactionDate": "01/12/2023",
+      "recipient": "Signidyne",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=6",
+      "location": "Rehrersburg",
+      "comments": "non eiusmod et"
+    },
+    {
+      "id": 37,
+      "title": "officia dolor qui",
+      "amount": 39.95,
+      "currency": "EUR",
+      "category": "fashion",
+      "transactionDate": "01/12/2023",
+      "recipient": "Corpulse",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=7",
+      "location": "Lewis",
+      "comments": "sint irure sit dolor consequat anim veniam sint ut ad"
+    },
+    {
+      "id": 38,
+      "title": "pariatur ullamco elit",
+      "amount": 93.44,
+      "currency": "RON",
+      "category": "leisure",
+      "transactionDate": "01/12/2023",
+      "recipient": "Atgen",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=8",
+      "location": "Shelby",
+      "comments": "consequat velit nisi do ullamco in quis"
+    },
+    {
+      "id": 39,
+      "title": "adipisicing ullamco sunt",
+      "amount": 63.32,
+      "currency": "RON",
+      "category": "food",
+      "transactionDate": "01/12/2023",
+      "recipient": "Omnigog",
+      "tags": [],
+      "receiptUrl": "https://picsum.photos/400/200?random=9",
+      "location": "Rodman",
+      "comments": "ea veniam qui cupidatat proident nulla"
+    }
+  ],
+  "currencies": [
+    {
+      "cc": "CHF",
+      "symbol": "Fr.",
+      "name": "Swiss franc",
+      "id": 0
+    },
+    {
+      "cc": "EUR",
+      "symbol": "€",
+      "name": "European Euro",
+      "id": 1
+    },
+    {
+      "cc": "USD",
+      "symbol": "US$",
+      "name": "United States dollar",
+      "id": 2
+    },
+    {
+      "cc": "GBP",
+      "symbol": "£",
+      "name": "British pound",
+      "id": 3
+    },
+    {
+      "cc": "AED",
+      "symbol": "د.إ;",
+      "name": "UAE dirham",
+      "id": 4
+    },
+    {
+      "cc": "AFN",
+      "symbol": "Afs",
+      "name": "Afghan afghani",
+      "id": 5
+    },
+    {
+      "cc": "ALL",
+      "symbol": "L",
+      "name": "Albanian lek",
+      "id": 6
+    },
+    {
+      "cc": "AMD",
+      "symbol": "AMD",
+      "name": "Armenian dram",
+      "id": 7
+    },
+    {
+      "cc": "ANG",
+      "symbol": "NAƒ",
+      "name": "Netherlands Antillean gulden",
+      "id": 8
+    },
+    {
+      "cc": "AOA",
+      "symbol": "Kz",
+      "name": "Angolan kwanza",
+      "id": 9
+    },
+    {
+      "cc": "ARS",
+      "symbol": "$",
+      "name": "Argentine peso",
+      "id": 10
+    },
+    {
+      "cc": "AUD",
+      "symbol": "$",
+      "name": "Australian dollar",
+      "id": 11
+    },
+    {
+      "cc": "AWG",
+      "symbol": "ƒ",
+      "name": "Aruban florin",
+      "id": 12
+    },
+    {
+      "cc": "AZN",
+      "symbol": "AZN",
+      "name": "Azerbaijani manat",
+      "id": 13
+    },
+    {
+      "cc": "BAM",
+      "symbol": "KM",
+      "name": "Bosnia and Herzegovina konvertibilna marka",
+      "id": 14
+    },
+    {
+      "cc": "BBD",
+      "symbol": "Bds$",
+      "name": "Barbadian dollar",
+      "id": 15
+    },
+    {
+      "cc": "BDT",
+      "symbol": "৳",
+      "name": "Bangladeshi taka",
+      "id": 16
+    },
+    {
+      "cc": "BGN",
+      "symbol": "BGN",
+      "name": "Bulgarian lev",
+      "id": 17
+    },
+    {
+      "cc": "BHD",
+      "symbol": ".د.ب",
+      "name": "Bahraini dinar",
+      "id": 18
+    },
+    {
+      "cc": "BIF",
+      "symbol": "FBu",
+      "name": "Burundi franc",
+      "id": 19
+    },
+    {
+      "cc": "BMD",
+      "symbol": "BD$",
+      "name": "Bermudian dollar",
+      "id": 20
+    },
+    {
+      "cc": "BND",
+      "symbol": "B$",
+      "name": "Brunei dollar",
+      "id": 21
+    },
+    {
+      "cc": "BOB",
+      "symbol": "Bs.",
+      "name": "Bolivian boliviano",
+      "id": 22
+    },
+    {
+      "cc": "BRL",
+      "symbol": "R$",
+      "name": "Brazilian real",
+      "id": 23
+    },
+    {
+      "cc": "BSD",
+      "symbol": "B$",
+      "name": "Bahamian dollar",
+      "id": 24
+    },
+    {
+      "cc": "BTN",
+      "symbol": "Nu.",
+      "name": "Bhutanese ngultrum",
+      "id": 25
+    },
+    {
+      "cc": "BWP",
+      "symbol": "P",
+      "name": "Botswana pula",
+      "id": 26
+    },
+    {
+      "cc": "BYR",
+      "symbol": "Br",
+      "name": "Belarusian ruble",
+      "id": 27
+    },
+    {
+      "cc": "BZD",
+      "symbol": "BZ$",
+      "name": "Belize dollar",
+      "id": 28
+    },
+    {
+      "cc": "CAD",
+      "symbol": "$",
+      "name": "Canadian dollar",
+      "id": 29
+    },
+    {
+      "cc": "CDF",
+      "symbol": "F",
+      "name": "Congolese franc",
+      "id": 30
+    },
+    {
+      "cc": "CLP",
+      "symbol": "$",
+      "name": "Chilean peso",
+      "id": 31
+    },
+    {
+      "cc": "CNY",
+      "symbol": "¥",
+      "name": "Chinese/Yuan renminbi",
+      "id": 32
+    },
+    {
+      "cc": "COP",
+      "symbol": "Col$",
+      "name": "Colombian peso",
+      "id": 33
+    },
+    {
+      "cc": "CRC",
+      "symbol": "₡",
+      "name": "Costa Rican colon",
+      "id": 34
+    },
+    {
+      "cc": "CUC",
+      "symbol": "$",
+      "name": "Cuban peso",
+      "id": 35
+    },
+    {
+      "cc": "CVE",
+      "symbol": "Esc",
+      "name": "Cape Verdean escudo",
+      "id": 36
+    },
+    {
+      "cc": "CZK",
+      "symbol": "Kč",
+      "name": "Czech koruna",
+      "id": 37
+    },
+    {
+      "cc": "DJF",
+      "symbol": "Fdj",
+      "name": "Djiboutian franc",
+      "id": 38
+    },
+    {
+      "cc": "DKK",
+      "symbol": "Kr",
+      "name": "Danish krone",
+      "id": 39
+    },
+    {
+      "cc": "DOP",
+      "symbol": "RD$",
+      "name": "Dominican peso",
+      "id": 40
+    },
+    {
+      "cc": "DZD",
+      "symbol": "د.ج",
+      "name": "Algerian dinar",
+      "id": 41
+    },
+    {
+      "cc": "EEK",
+      "symbol": "KR",
+      "name": "Estonian kroon",
+      "id": 42
+    },
+    {
+      "cc": "EGP",
+      "symbol": "£",
+      "name": "Egyptian pound",
+      "id": 43
+    },
+    {
+      "cc": "ERN",
+      "symbol": "Nfa",
+      "name": "Eritrean nakfa",
+      "id": 44
+    },
+    {
+      "cc": "ETB",
+      "symbol": "Br",
+      "name": "Ethiopian birr",
+      "id": 45
+    },
+    {
+      "cc": "FJD",
+      "symbol": "FJ$",
+      "name": "Fijian dollar",
+      "id": 46
+    },
+    {
+      "cc": "FKP",
+      "symbol": "£",
+      "name": "Falkland Islands pound",
+      "id": 47
+    },
+    {
+      "cc": "GEL",
+      "symbol": "GEL",
+      "name": "Georgian lari",
+      "id": 48
+    },
+    {
+      "cc": "GHS",
+      "symbol": "GH₵",
+      "name": "Ghanaian cedi",
+      "id": 49
+    },
+    {
+      "cc": "GIP",
+      "symbol": "£",
+      "name": "Gibraltar pound",
+      "id": 50
+    },
+    {
+      "cc": "GMD",
+      "symbol": "D",
+      "name": "Gambian dalasi",
+      "id": 51
+    },
+    {
+      "cc": "GNF",
+      "symbol": "FG",
+      "name": "Guinean franc",
+      "id": 52
+    },
+    {
+      "cc": "GTQ",
+      "symbol": "Q",
+      "name": "Guatemalan quetzal",
+      "id": 53
+    },
+    {
+      "cc": "GYD",
+      "symbol": "GY$",
+      "name": "Guyanese dollar",
+      "id": 54
+    },
+    {
+      "cc": "HKD",
+      "symbol": "HK$",
+      "name": "Hong Kong dollar",
+      "id": 55
+    },
+    {
+      "cc": "HNL",
+      "symbol": "L",
+      "name": "Honduran lempira",
+      "id": 56
+    },
+    {
+      "cc": "HRK",
+      "symbol": "kn",
+      "name": "Croatian kuna",
+      "id": 57
+    },
+    {
+      "cc": "HTG",
+      "symbol": "G",
+      "name": "Haitian gourde",
+      "id": 58
+    },
+    {
+      "cc": "HUF",
+      "symbol": "Ft",
+      "name": "Hungarian forint",
+      "id": 59
+    },
+    {
+      "cc": "IDR",
+      "symbol": "Rp",
+      "name": "Indonesian rupiah",
+      "id": 60
+    },
+    {
+      "cc": "ILS",
+      "symbol": "₪",
+      "name": "Israeli new sheqel",
+      "id": 61
+    },
+    {
+      "cc": "INR",
+      "symbol": "₹",
+      "name": "Indian rupee",
+      "id": 62
+    },
+    {
+      "cc": "IQD",
+      "symbol": "د.ع",
+      "name": "Iraqi dinar",
+      "id": 63
+    },
+    {
+      "cc": "IRR",
+      "symbol": "IRR",
+      "name": "Iranian rial",
+      "id": 64
+    },
+    {
+      "cc": "ISK",
+      "symbol": "kr",
+      "name": "Icelandic króna",
+      "id": 65
+    },
+    {
+      "cc": "JMD",
+      "symbol": "J$",
+      "name": "Jamaican dollar",
+      "id": 66
+    },
+    {
+      "cc": "JOD",
+      "symbol": "JOD",
+      "name": "Jordanian dinar",
+      "id": 67
+    },
+    {
+      "cc": "JPY",
+      "symbol": "¥",
+      "name": "Japanese yen",
+      "id": 68
+    },
+    {
+      "cc": "KES",
+      "symbol": "KSh",
+      "name": "Kenyan shilling",
+      "id": 69
+    },
+    {
+      "cc": "KGS",
+      "symbol": "сом",
+      "name": "Kyrgyzstani som",
+      "id": 70
+    },
+    {
+      "cc": "KHR",
+      "symbol": "៛",
+      "name": "Cambodian riel",
+      "id": 71
+    },
+    {
+      "cc": "KMF",
+      "symbol": "KMF",
+      "name": "Comorian franc",
+      "id": 72
+    },
+    {
+      "cc": "KPW",
+      "symbol": "W",
+      "name": "North Korean won",
+      "id": 73
+    },
+    {
+      "cc": "KRW",
+      "symbol": "W",
+      "name": "South Korean won",
+      "id": 74
+    },
+    {
+      "cc": "KWD",
+      "symbol": "KWD",
+      "name": "Kuwaiti dinar",
+      "id": 75
+    },
+    {
+      "cc": "KYD",
+      "symbol": "KY$",
+      "name": "Cayman Islands dollar",
+      "id": 76
+    },
+    {
+      "cc": "KZT",
+      "symbol": "T",
+      "name": "Kazakhstani tenge",
+      "id": 77
+    },
+    {
+      "cc": "LAK",
+      "symbol": "KN",
+      "name": "Lao kip",
+      "id": 78
+    },
+    {
+      "cc": "LBP",
+      "symbol": "£",
+      "name": "Lebanese lira",
+      "id": 79
+    },
+    {
+      "cc": "LKR",
+      "symbol": "Rs",
+      "name": "Sri Lankan rupee",
+      "id": 80
+    },
+    {
+      "cc": "LRD",
+      "symbol": "L$",
+      "name": "Liberian dollar",
+      "id": 81
+    },
+    {
+      "cc": "LSL",
+      "symbol": "M",
+      "name": "Lesotho loti",
+      "id": 82
+    },
+    {
+      "cc": "LTL",
+      "symbol": "Lt",
+      "name": "Lithuanian litas",
+      "id": 83
+    },
+    {
+      "cc": "LVL",
+      "symbol": "Ls",
+      "name": "Latvian lats",
+      "id": 84
+    },
+    {
+      "cc": "LYD",
+      "symbol": "LD",
+      "name": "Libyan dinar",
+      "id": 85
+    },
+    {
+      "cc": "MAD",
+      "symbol": "MAD",
+      "name": "Moroccan dirham",
+      "id": 86
+    },
+    {
+      "cc": "MDL",
+      "symbol": "MDL",
+      "name": "Moldovan leu",
+      "id": 87
+    },
+    {
+      "cc": "MGA",
+      "symbol": "FMG",
+      "name": "Malagasy ariary",
+      "id": 88
+    },
+    {
+      "cc": "MKD",
+      "symbol": "MKD",
+      "name": "Macedonian denar",
+      "id": 89
+    },
+    {
+      "cc": "MMK",
+      "symbol": "K",
+      "name": "Myanma kyat",
+      "id": 90
+    },
+    {
+      "cc": "MNT",
+      "symbol": "₮",
+      "name": "Mongolian tugrik",
+      "id": 91
+    },
+    {
+      "cc": "MOP",
+      "symbol": "P",
+      "name": "Macanese pataca",
+      "id": 92
+    },
+    {
+      "cc": "MRO",
+      "symbol": "UM",
+      "name": "Mauritanian ouguiya",
+      "id": 93
+    },
+    {
+      "cc": "MUR",
+      "symbol": "Rs",
+      "name": "Mauritian rupee",
+      "id": 94
+    },
+    {
+      "cc": "MVR",
+      "symbol": "Rf",
+      "name": "Maldivian rufiyaa",
+      "id": 95
+    },
+    {
+      "cc": "MWK",
+      "symbol": "MK",
+      "name": "Malawian kwacha",
+      "id": 96
+    },
+    {
+      "cc": "MXN",
+      "symbol": "$",
+      "name": "Mexican peso",
+      "id": 97
+    },
+    {
+      "cc": "MYR",
+      "symbol": "RM",
+      "name": "Malaysian ringgit",
+      "id": 98
+    },
+    {
+      "cc": "MZM",
+      "symbol": "MTn",
+      "name": "Mozambican metical",
+      "id": 99
+    },
+    {
+      "cc": "NAD",
+      "symbol": "N$",
+      "name": "Namibian dollar",
+      "id": 100
+    },
+    {
+      "cc": "NGN",
+      "symbol": "₦",
+      "name": "Nigerian naira",
+      "id": 101
+    },
+    {
+      "cc": "NIO",
+      "symbol": "C$",
+      "name": "Nicaraguan córdoba",
+      "id": 102
+    },
+    {
+      "cc": "NOK",
+      "symbol": "kr",
+      "name": "Norwegian krone",
+      "id": 103
+    },
+    {
+      "cc": "NPR",
+      "symbol": "NRs",
+      "name": "Nepalese rupee",
+      "id": 104
+    },
+    {
+      "cc": "NZD",
+      "symbol": "NZ$",
+      "name": "New Zealand dollar",
+      "id": 105
+    },
+    {
+      "cc": "OMR",
+      "symbol": "OMR",
+      "name": "Omani rial",
+      "id": 106
+    },
+    {
+      "cc": "PAB",
+      "symbol": "B./",
+      "name": "Panamanian balboa",
+      "id": 107
+    },
+    {
+      "cc": "PEN",
+      "symbol": "S/.",
+      "name": "Peruvian nuevo sol",
+      "id": 108
+    },
+    {
+      "cc": "PGK",
+      "symbol": "K",
+      "name": "Papua New Guinean kina",
+      "id": 109
+    },
+    {
+      "cc": "PHP",
+      "symbol": "₱",
+      "name": "Philippine peso",
+      "id": 110
+    },
+    {
+      "cc": "PKR",
+      "symbol": "Rs.",
+      "name": "Pakistani rupee",
+      "id": 111
+    },
+    {
+      "cc": "PLN",
+      "symbol": "zł",
+      "name": "Polish zloty",
+      "id": 112
+    },
+    {
+      "cc": "PYG",
+      "symbol": "₲",
+      "name": "Paraguayan guarani",
+      "id": 113
+    },
+    {
+      "cc": "QAR",
+      "symbol": "QR",
+      "name": "Qatari riyal",
+      "id": 114
+    },
+    {
+      "cc": "RON",
+      "symbol": "L",
+      "name": "Romanian leu",
+      "id": 115
+    },
+    {
+      "cc": "RSD",
+      "symbol": "din.",
+      "name": "Serbian dinar",
+      "id": 116
+    },
+    {
+      "cc": "RUB",
+      "symbol": "R",
+      "name": "Russian ruble",
+      "id": 117
+    },
+    {
+      "cc": "SAR",
+      "symbol": "SR",
+      "name": "Saudi riyal",
+      "id": 118
+    },
+    {
+      "cc": "SBD",
+      "symbol": "SI$",
+      "name": "Solomon Islands dollar",
+      "id": 119
+    },
+    {
+      "cc": "SCR",
+      "symbol": "SR",
+      "name": "Seychellois rupee",
+      "id": 120
+    },
+    {
+      "cc": "SDG",
+      "symbol": "SDG",
+      "name": "Sudanese pound",
+      "id": 121
+    },
+    {
+      "cc": "SEK",
+      "symbol": "kr",
+      "name": "Swedish krona",
+      "id": 122
+    },
+    {
+      "cc": "SGD",
+      "symbol": "S$",
+      "name": "Singapore dollar",
+      "id": 123
+    },
+    {
+      "cc": "SHP",
+      "symbol": "£",
+      "name": "Saint Helena pound",
+      "id": 124
+    },
+    {
+      "cc": "SLL",
+      "symbol": "Le",
+      "name": "Sierra Leonean leone",
+      "id": 125
+    },
+    {
+      "cc": "SOS",
+      "symbol": "Sh.",
+      "name": "Somali shilling",
+      "id": 126
+    },
+    {
+      "cc": "SRD",
+      "symbol": "$",
+      "name": "Surinamese dollar",
+      "id": 127
+    },
+    {
+      "cc": "SYP",
+      "symbol": "LS",
+      "name": "Syrian pound",
+      "id": 128
+    },
+    {
+      "cc": "SZL",
+      "symbol": "E",
+      "name": "Swazi lilangeni",
+      "id": 129
+    },
+    {
+      "cc": "THB",
+      "symbol": "฿",
+      "name": "Thai baht",
+      "id": 130
+    },
+    {
+      "cc": "TJS",
+      "symbol": "TJS",
+      "name": "Tajikistani somoni",
+      "id": 131
+    },
+    {
+      "cc": "TMT",
+      "symbol": "m",
+      "name": "Turkmen manat",
+      "id": 132
+    },
+    {
+      "cc": "TND",
+      "symbol": "DT",
+      "name": "Tunisian dinar",
+      "id": 133
+    },
+    {
+      "cc": "TRY",
+      "symbol": "TRY",
+      "name": "Turkish new lira",
+      "id": 134
+    },
+    {
+      "cc": "TTD",
+      "symbol": "TT$",
+      "name": "Trinidad and Tobago dollar",
+      "id": 135
+    },
+    {
+      "cc": "TWD",
+      "symbol": "NT$",
+      "name": "New Taiwan dollar",
+      "id": 136
+    },
+    {
+      "cc": "TZS",
+      "symbol": "TZS",
+      "name": "Tanzanian shilling",
+      "id": 137
+    },
+    {
+      "cc": "UAH",
+      "symbol": "UAH",
+      "name": "Ukrainian hryvnia",
+      "id": 138
+    },
+    {
+      "cc": "UGX",
+      "symbol": "USh",
+      "name": "Ugandan shilling",
+      "id": 139
+    },
+    {
+      "cc": "UYU",
+      "symbol": "$U",
+      "name": "Uruguayan peso",
+      "id": 140
+    },
+    {
+      "cc": "UZS",
+      "symbol": "UZS",
+      "name": "Uzbekistani som",
+      "id": 141
+    },
+    {
+      "cc": "VEB",
+      "symbol": "Bs",
+      "name": "Venezuelan bolivar",
+      "id": 142
+    },
+    {
+      "cc": "VND",
+      "symbol": "₫",
+      "name": "Vietnamese dong",
+      "id": 143
+    },
+    {
+      "cc": "VUV",
+      "symbol": "VT",
+      "name": "Vanuatu vatu",
+      "id": 144
+    },
+    {
+      "cc": "WST",
+      "symbol": "WS$",
+      "name": "Samoan tala",
+      "id": 145
+    },
+    {
+      "cc": "XAF",
+      "symbol": "CFA",
+      "name": "Central African CFA franc",
+      "id": 146
+    },
+    {
+      "cc": "XCD",
+      "symbol": "EC$",
+      "name": "East Caribbean dollar",
+      "id": 147
+    },
+    {
+      "cc": "XDR",
+      "symbol": "SDR",
+      "name": "Special Drawing Rights",
+      "id": 148
+    },
+    {
+      "cc": "XOF",
+      "symbol": "CFA",
+      "name": "West African CFA franc",
+      "id": 149
+    },
+    {
+      "cc": "XPF",
+      "symbol": "F",
+      "name": "CFP franc",
+      "id": 150
+    },
+    {
+      "cc": "YER",
+      "symbol": "YER",
+      "name": "Yemeni rial",
+      "id": 151
+    },
+    {
+      "cc": "ZAR",
+      "symbol": "R",
+      "name": "South African rand",
+      "id": 152
+    },
+    {
+      "cc": "ZMK",
+      "symbol": "ZK",
+      "name": "Zambian kwacha",
+      "id": 153
+    },
+    {
+      "cc": "ZWR",
+      "symbol": "Z$",
+      "name": "Zimbabwean dollar",
+      "id": 154
+    }
+  ]
+}
